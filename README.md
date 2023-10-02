@@ -1,6 +1,6 @@
 # My First RPG (March 2023)
 
-![Screenshot](screenshot/Home_Page.png)
+![Screenshot](screenshot/Home_page.png)
 
 **My First RPG** is my inaugural RPG project, developed during my first year at Epitech. This project was completed within a month with 3 other student, and I'm excited to share the outcome with you!
 
