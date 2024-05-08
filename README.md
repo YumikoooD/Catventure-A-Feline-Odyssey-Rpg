@@ -1,8 +1,8 @@
-# My First RPG (March 2023)
+# Catventure
 
 ![Screenshot](screenshot/Home_page.png)
 
-**Catventure** is my inaugural RPG project, developed during my first year at Epitech. This project was completed within a month with 3 other student, and I'm excited to share the outcome with you!
+**Catventure** is my RPG project, developed during 2022. This project was completed within a month with 3 friends, and I'm excited to share the outcome with you!
 
 ## Game Overview
 
@@ -24,5 +24,5 @@
 ![Screenshot 1](screenshot/Main_bat.png)
 
 
-Enjoy your time exploring the world of **My First RPG** and experiencing epic adventures!
+Enjoy your time exploring the world of **Catventure** and experiencing epic adventures!
 The game is not complete yet, you can only fight against one monster and complete only one task. But you can still explore the map and enjoy the music and the graphics. Maybe one day I will finish it.
